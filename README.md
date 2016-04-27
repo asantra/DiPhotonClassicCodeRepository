@@ -1,5 +1,5 @@
-Inside ArkaCode, the ntuple analyzer needed to get acceptance times efficiency is kept. 
-## To run this set of codes:
+##Inside ArkaCode, the ntuple analyzer needed to get acceptance times efficiency is kept. 
+#To run this set of codes:
  1. Put all the files in a folder at LPC/LXPLUS
  2. put the T5gg sorted (for T6gg, one needs to add 'EventTag' branch in MyNtupleMakerMASTER.h) files' address (eos address) in a text file (example is FinalSignalSample19Feb.txt).
  3. Run like this:
