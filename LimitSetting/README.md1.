@@ -29,7 +29,7 @@ Step 3: Compute limits
     is inside limit_files folder
 
 Step 4: Create limit histograms
-
+    * first you need to write ExpLimMid.C, ExpLimUp.C, ExpLimDown.C with proper output root file names and histogram declaration.
     * Run step4a.sh, step4b.shm tep4c.sh and step4d.sh. They will create histograms from the output of combine limit command
     
 Step 5: Draw limit canvas
