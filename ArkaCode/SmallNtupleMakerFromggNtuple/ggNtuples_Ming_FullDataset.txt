@@ -1,0 +1,7 @@
+/eos/cms/store/group/phys_smp/ggNtuples/13TeV/data/V07_04_16_03/job_DoubleEG_Run2015C_Oct05_miniAOD.root
+/eos/cms/store/group/phys_smp/ggNtuples/13TeV/data/V07_04_16_03/job_DoubleEG_Run2015D_Oct05_miniAOD.root
+/eos/cms/store/group/phys_smp/ggNtuples/13TeV/data/V07_04_16_03/job_DoubleEG_Run2015D_PR_v4_miniAOD.root
+
+
+
+
