@@ -4,6 +4,6 @@ This set of codes is used to create small ntuple from ggNtuple for faster runnin
 Each file should be in a separate line. Hit enter after the last line. For explanation see this 
 https://github.com/asantra/DiPhotonClassicCodeRepository/blob/master/ArkaCode/NtuplesForSignalEfficiency/README.md
 2. Run the makeGGjobs.py like this:
-python makeGGjobs.py <no of divideJobs> <textfile containing list of files>
+python makeGGjobs.py "no of divideJobs" "textfile containing list of files"
 
 3. If number of lines in .txt file is M and no of divideJobs is N, then MN number of condor jobs will be submitted.
