@@ -3,9 +3,14 @@ files in a folder and do the following:
 Step 1
 ----------
 1. Run the PythonSubmit.py in the following way:
-python PythonSubmit.py <photon Pt selection> <txt file name> <analysisFake/extendedFake boolean True/False>
-i.e. python PythonSubmit.py 40 sample.txt True # for analysis Fake
-where txt file contains absolute paths of the small ntuples (output of the codes in folder SmallNtupleMakerFromggNtuple).
+python PythonSubmit.py "photon Pt selection" "txt file name" "analysisFake/extendedFake boolean True/False"
+
+
+example
+python PythonSubmit.py 40 sample.txt True # for analysis Fake
+where txt file contains absolute paths of the small ntuples (output of the codes in folder SmallNtupleMakerFromggNtuple). In the textfile,
+Hit enter after the last line. For explanation see this 
+https://github.com/asantra/DiPhotonClassicCodeRepository/blob/master/ArkaCode/NtuplesForSignalEfficiency/README.md
 
 photon Pt selection is always kept at 40
 
