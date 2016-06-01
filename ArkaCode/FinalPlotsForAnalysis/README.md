@@ -18,3 +18,4 @@ less than 50 (49 may be).
 be saved in different folders for original fake and extedned fake.
 
 2. You may need to fix the location of 'MyFunction.h' in the #include section of each file.
+3. you need to run QCDClosure.sh second time, because in the first iteration, all the plots will have wrong diEMPt weight (see https://github.com/asantra/DiPhotonClassicCodeRepository/blob/master/ArkaCode/AnalysisHistogramMaker/README.md for more explanation)
